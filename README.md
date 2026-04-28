@@ -4,13 +4,13 @@
 [![Analysis](https://img.shields.io/badge/Analysis-Exploratory%20(EDA)-0052CC?style=flat-square)](#)
 [![Domain](https://img.shields.io/badge/Domain-Socio--Demographics-1F77B4?style=flat-square)](#)
 
-## 🌍 Strategic Context & Objective
+## Strategic Context & Objective
 
 Conceived as a continuation of the Time Poverty econometric analysis in urban Chile, this supplementary project explores whether the dynamics of unpaid labour and the "General Production Boundary" hold true across different socio-economic and geographic contexts. 
 
 Utilizing the **United Kingdom Time Use Survey (2014-2015)**, this project delivers an **Exploratory Data Analysis (EDA)** focused on visual storytelling. The primary objective is to map time allocation across demographics to uncover the hidden value of non-market labour—activities fundamentally acknowledged as productive by the International Labour Organization (ILO), yet systematically excluded from Neoclassical GDP metrics.
 
-## 🛠️ Data Wrangling & Feature Engineering
+## Data Wrangling & Feature Engineering
 
 Transforming raw survey responses into an analytically viable dataset required extensive feature engineering and data aggregation prior to visualization:
 
