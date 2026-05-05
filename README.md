@@ -32,8 +32,3 @@ Employing a top-down visual funnel—from national macro-trends to family micro-
 
 > **Data Governance & Privacy Note:** > Adhering to data privacy best practices and file size constraints, the underlying raw microdata is excluded from this repository. The interactive Tableau dashboard utilizes an aggregated data extract to protect respondent anonymity while preserving analytical depth.
 
-## Repository Structure
-
-* `README.md`: Project overview, methodology, and key findings.
-* `/images`: Static visual assets and dashboard wireframes.
-* `UK_Time_Use_Analysis.twbx`: Packaged Tableau Workbook containing backend calculations and the data model structure.
