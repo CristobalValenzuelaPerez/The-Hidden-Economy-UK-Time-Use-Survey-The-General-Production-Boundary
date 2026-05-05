@@ -26,7 +26,8 @@ Employing a top-down visual funnel—from national macro-trends to family micro-
 3. **The Commuting Paradox & Mobility:** The impact of vehicle ownership on commute times is heavily dictated by geography and family structure rather than simple economics. While regions like England show marginal differences, lacking a vehicle severely penalises families in Scotland and Wales, highlighting a hidden "infrastructure tax" on unpaid caregiving and household management.
 
 ## Interactive Data Story (Tableau)
-<img width="2099" height="3524" alt="dashboard_preview_HiddenEconomy" src="https://github.com/user-attachments/assets/0ecc96f6-6e45-4b5f-8060-4b0279e36743" />
+<img width="1749" height="2936" alt="dashboard_preview_HiddenEconomy" src="https://github.com/user-attachments/assets/17df03b9-ad31-4808-9576-5a69cbbcf18f" />
+
 
 **[Alternatively, click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HiddenEconomy_Master/HiddenEconomy?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
