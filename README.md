@@ -23,10 +23,12 @@ Employing a top-down visual funnel—from national macro-trends to family micro-
 
 1. **The Myth of Economic Inactivity:** As demonstrated in the *Productive Activities by Age* visualization, segments officially classified by traditional economics as "inactive" (children and the elderly) absorb a massive share of Household Labour. Their unpaid caregiving and domestic work directly subsidize the formal economy by enabling prime-age adults to participate in the market.
 2. **The Early Onset of the Gender Gap:** Time allocation breakdowns indicate that the gendered division of household labour emerges in early childhood, mirroring adult patterns. This finding challenges the neoclassical assumption that domestic work allocation is purely a "profitable trade-off" based on adult market wages, pointing instead to deeply ingrained cultural structures.
+3. **The Commuting Paradox & Mobility:** The impact of vehicle ownership on commute times is heavily dictated by geography and family structure rather than simple economics. While regions like England show marginal differences, lacking a vehicle severely penalises families in Scotland and Wales, highlighting a hidden "infrastructure tax" on unpaid caregiving and household management.
 
 ## Interactive Data Story (Tableau)
+<img width="2099" height="3524" alt="dashboard_preview_HiddenEconomy" src="https://github.com/user-attachments/assets/0ecc96f6-6e45-4b5f-8060-4b0279e36743" />
 
-*Click the preview below to explore the interactive dashboard on Tableau Public. Utilize the global filters (Day, Age Group, Country) to customize the demographic view.*
+**[Alternatively, click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HiddenEconomy_Master/HiddenEconomy?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 [![UK Time Use Dashboard Preview](./images/dashboard_preview.png)](AQUÍ_PEGA_EL_LINK_DE_TU_TABLEAU_PUBLIC)
 
