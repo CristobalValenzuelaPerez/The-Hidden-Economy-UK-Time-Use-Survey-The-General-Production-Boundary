@@ -22,11 +22,14 @@ Transforming raw survey responses into an analytically viable dataset required e
 Employing a top-down visual funnel—from national macro-trends to family micro-dynamics—the analysis reveals two critical structural patterns:
 
 1. **The Myth of Economic Inactivity:** As demonstrated in the *Productive Activities by Age* visualization, segments officially classified by traditional economics as "inactive" (children and the elderly) absorb a massive share of Household Labour. Their unpaid caregiving and domestic work directly subsidize the formal economy by enabling prime-age adults to participate in the market.
+   
 2. **The Early Onset of the Gender Gap:** Time allocation breakdowns indicate that the gendered division of household labour emerges in early childhood, mirroring adult patterns. This finding challenges the neoclassical assumption that domestic work allocation is purely a "profitable trade-off" based on adult market wages, pointing instead to deeply ingrained cultural structures.
+   
 3. **The Commuting Paradox & Mobility:** The impact of vehicle ownership on commute times is heavily dictated by geography and family structure rather than simple economics. While regions like England show marginal differences, lacking a vehicle severely penalises families in Scotland and Wales, highlighting a hidden "infrastructure tax" on unpaid caregiving and household management.
 
 ## Interactive Data Story (Tableau)
-<img width="1749" height="2936" alt="dashboard_preview_HiddenEconomy" src="https://github.com/user-attachments/assets/17df03b9-ad31-4808-9576-5a69cbbcf18f" />
+<img width="1749" height="2936" alt="dashboard_preview_HiddenEconomy" src="https://github.com/user-attachments/assets/051e9c37-08c9-43d4-a02d-e78e9b8d216b" />
+
 
 
 **[Alternatively, click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HiddenEconomy_Master/HiddenEconomy?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
