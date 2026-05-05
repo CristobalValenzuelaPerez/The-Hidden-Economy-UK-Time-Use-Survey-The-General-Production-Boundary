@@ -30,8 +30,6 @@ Employing a top-down visual funnel—from national macro-trends to family micro-
 
 **[Alternatively, click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HiddenEconomy_Master/HiddenEconomy?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-[![UK Time Use Dashboard Preview](./images/dashboard_preview.png)](AQUÍ_PEGA_EL_LINK_DE_TU_TABLEAU_PUBLIC)
-
 > **Data Governance & Privacy Note:** > Adhering to data privacy best practices and file size constraints, the underlying raw microdata is excluded from this repository. The interactive Tableau dashboard utilizes an aggregated data extract to protect respondent anonymity while preserving analytical depth.
 
 ## Repository Structure
